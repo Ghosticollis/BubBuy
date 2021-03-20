@@ -1,0 +1,12 @@
+{
+	"IsEnabled": true,
+	"Name": "BubBuy",
+	"Version": "2.1.0.3",
+	"Assemblies":
+	[
+		{
+			"Path": "/BubBuy.dll",
+			"Role": "Both_Optional"
+		}
+	]
+}
