@@ -1,0 +1,8 @@
+# lines start with the sign # gonna be ignored
+
+add shop:1 item_id:1000 price:300
+add shop:1 item_id:17 price:50
+
+add shop:2 item_id:81 price:10
+add shop:2 item_id:15 price:10
+
