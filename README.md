@@ -14,11 +14,14 @@ how to use:
 
 admin need to stand close to a wall and use the command /put_signd [item id] 
 
-then edt the sign to adjust price.
+then edit the sign to adjust price.
 
 for example: /put_sign 81
 
 will add to the wall a sign for selling MRE
 
 
-players can buy the item but standing close to it and use /buy 
+players can buy the item by standing close to the sign and use /buy 
+
+another option is to define a shop at the config file, then admins could easy spawn it after wipes by using /spawn_shop [SHOP_ID]
+to see available shops to spawn (by admins) : /list_shops
