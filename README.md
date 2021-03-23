@@ -12,12 +12,9 @@ copy the folder BubBuy to `[your Unturned server folder]/Modules`
 
 # how to use:
 
-admin need to stand close to a wall and use the command `/put_signd [item id]`
-
+- admin need to stand close to a wall and use the command `/put_signd [item id]`
 then edit the sign to adjust price.
-
 for example: `/put_sign 81`
-
 will add to the wall a sign for selling MRE
 
 
