@@ -1,3 +1,7 @@
+# Not maintained
+this code is since many years ago. maybe some parts of it are outdated by now.
+also I was a beginner when I made it. maybe someday I will have the time to fix or redo it.
+
 # BubBuy
 
 A simple Unturned selling items module.
